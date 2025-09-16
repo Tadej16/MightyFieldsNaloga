@@ -1,0 +1,8 @@
+.p-field > * {
+  display: block;
+}
+
+.is-invalid {
+  border-color: red !important;
+  background-color: #ffe6e6;
+}
